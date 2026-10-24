@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  filename: shashwat
+  lastname: naik
+kind: ConfigMap
+metadata:
+  name: app1-cm
